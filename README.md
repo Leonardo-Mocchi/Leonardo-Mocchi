@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leonardo-Mocchi
 - 👀 I’m interested in Internet Culture, Coding & Games
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development in Java
 - 📫 How to reach me leonardo.mocchi@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: only crashed my PC once when i was learning loops
